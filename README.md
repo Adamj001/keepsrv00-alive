@@ -1,7 +1,5 @@
 # keepsrv00-alive
-Optimized Workflow
-
-
+Optimized Workflow from https://github.com/yonggekkk/sing-box-yg
 
 Explanation of Changes
 
@@ -11,8 +9,7 @@ Explanation of Changes
 	•	Add your ACCOUNTS_JSON with the following JSON structure:
 
 [
-  {"RES":"n", "SSH_USER":"CR", "SSH_PASS":"Y N jVPF", "REALITY":"www.speedtest.net", "SUUID":"f6e8f9e4-abbc-4f85-a0f0-", "TCP1_PORT":"13580", "TCP2_PORT":"13759", "UDP_PORT":"38866", "HOST":"scom", "ARGO_DOMAIN":"s7cr.us.kg", "ARGO_AUTH":"dfhj k"},
-  {"RES":"n", "SSH_USER":"LZ", "SSH_PASS":"k.qKZZ", "REALITY":"www.icloud.com", "SUUID":"02e0ae79-94cd-42d8-f102b29", "TCP1_PORT":"18181", "TCP2_PORT":"22041", "UDP_PORT":"37778", "HOST":"sd.com", "ARGO_DOMAIN":"lzi8.xinkg", "ARGO_AUTH":"dfhj k"}
+  {"RES":"n", "SSH_USER":"CR", "SSH_PASS":"Y N jVPF", "REALITY":"www.speedtest.net", "SUUID":"f6e8f9e4-ab0f0-", "TCP1_PORT":"10", "TCP2_PORT":"19", "UDP_PORT":"38", "HOST":"s16.serv00.com", ", "ARGO_DOMAIN":"lzi8.kg", "ARGO_AUTH":"dfhj k"}
 ]
 
 
